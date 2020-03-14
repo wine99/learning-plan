@@ -17,7 +17,7 @@
 - [x] Day04 - 循环结构
 - [x] Day05 - 构造程序逻辑
 - [x] Day06 - 函数和模块的使用
-- [ ] Day07 - 字符串和常用数据结构
+- [x] Day07 - 字符串和常用数据结构
 - [ ] Day08 - 面向对象编程基础
 - [ ] Day09 - 面向对象进阶
 - [ ] Day10 - 图形用户界面和游戏开发
@@ -161,10 +161,10 @@
 ### [机器学习入门模型]()
 
 #### 原理推导
-- [ ] linear regression
+- [x] linear regression
 
 #### Python 实现
-- [ ] linear regression
+- [x] linear regression
 
 
 
