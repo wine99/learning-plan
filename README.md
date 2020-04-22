@@ -158,50 +158,6 @@
 
 
 
-### [机器学习](#机器学习)
-
-#### 经典模型
-- [x] Linear Regression
-- [ ] Logistic Regression
-- [ ] Softmax Regression
-- [ ] KNN
-- [ ] Naive Bayes
-
-#### [CS229](https://www.bilibili.com/video/av79827258)
-
-<details>
-<summary>列表</summary>
-
-- [x] P1 CS229_on_9_24_2018_(Mon) 导论
-- [x] P2 CS229_on_9_26_2018_(Wed) 线性回归
-- [x] P3 CS229_on_9_28_2018_(Fri) 线性代数
-- [x] P4 CS229_on_10_1_2018_(Mon) 逻辑回归、牛顿法
-- [ ] P5 CS229_on_10_3_2018_(Wed)
-- [ ] P6 CS229_on_10_5_2018_(Fri)
-- [ ] P7 CS229_on_10_8_2018_(Mon)
-- [ ] P8 CS229_on_10_10_2018_(Wed)
-- [ ] P9 CS229_on_10_15_2018_(Mon)
-- [ ] P10 CS229_on_10_17_2018_(Wed)
-- [ ] P11 CS229_on_10_19_2018_(Fri)
-- [ ] P12 CS229_on_10_22_2018_(Mon)
-- [ ] P13 CS229_on_10_24_2018_(Wed)
-- [ ] P14 CS229_on_10_26_2018_(Fri)
-- [ ] P15 CS229_on_10_29_2018_(Mon)
-- [ ] P16 CS229_on_10_31_2018_(Wed)
-- [ ] P17 CS229_on_11_2_2018_(Fri)
-- [ ] P18 CS229_on_11_5_2018_(Mon)
-- [ ] P19 CS229_on_11_7_2018_(Wed)
-- [ ] P20 CS229_on_11_12_2018_(Mon)
-- [ ] P21 CS229_on_11_14_2018_(Wed)
-- [ ] P22 CS229_on_11_26_2018_(Mon)
-- [ ] P23 CS229_on_11_28_2018_(Wed)
-- [ ] P24 CS229_on_11_30_2018_(Fri)
-- [ ] P25 CS229_on_12_3_2018_(Mon)
-- [ ] P26 CS229_on_12_5_2018_(Wed)
-- [ ] P27 CS229_on_12_7_2018_(Fri)
-</details>
-
-
 ### [SQL 必知必会](https://time.geekbang.org/column/intro/192)
 
 <details>
@@ -272,8 +228,9 @@
 
 ### [前端技能点](#前端技能点)
 
+- [ ] JS 浮点数
 - [ ] lazy load
-- [ ] 常见加载动画
+- [ ] 无限下拉
 
 
 
@@ -281,33 +238,13 @@
 
 #### NPM
 - [ ] minimist
+- [ ] day.js
+- [ ] lodash
 
 
 
 
 ## 数学与自然科学
-
-
-### [线性代数的本质](https://www.bilibili.com/video/av6731067)
-
-<details>
-<summary>列表</summary>
-
-- [x] 00 - 序言
-- [x] 01 - 向量究竟是什么？
-- [x] 02 - 线性组合、张成的空间与基
-- [x] 03 - 矩阵与线性变换
-- [x] 04 - 矩阵乘法与线性变换符合
-- [x] 05 - 行列式
-- [x] 06 - 逆矩阵、列空间与零空间
-- [x] 07 - 点积与对偶性
-- [x] 08 - 叉积
-- [x] 09 - 基变换
-- [x] 10 - 特征向量与特征值
-- [x] 11 - 抽象向量空间
-- [ ] 12 - 克莱姆法则，几何解释
-</details>
-
 
 
 ### [线性代数 - MIT](https://www.bilibili.com/video/av46288016)
