@@ -3,6 +3,7 @@
 ## Ongoing :grinning:
 
 - [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
+- [《C和指针》](https://book.douban.com/subject/3012360/)
 
 ## Near future :thinking:
 
