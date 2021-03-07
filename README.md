@@ -2,13 +2,14 @@
 
 ## Ongoing :grinning:
 
+- [现代 JavaScript 教程](https://zh.javascript.info/)
+
 ## Near future :thinking:
 
 ### CS & Math
 
 - [PLAI](https://www.bilibili.com/video/BV1V4411Z7LQ)
 - [GAMES101 - 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744)
-- [《ECMAScript 6 入门》](https://es6.ruanyifeng.com)
 - [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
 - [《C和指针》](https://book.douban.com/subject/3012360/)
 
