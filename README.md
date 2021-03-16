@@ -2,7 +2,7 @@
 
 ## Ongoing :grinning:
 
-- [现代 JavaScript 教程](https://zh.javascript.info/)
+- Struggling to find an internship :cry:
 
 ## Near future :thinking:
 
@@ -11,13 +11,13 @@
 - [PLAI](https://www.bilibili.com/video/BV1V4411Z7LQ)
 - [GAMES101 - 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744)
 - [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
-- [《C和指针》](https://book.douban.com/subject/3012360/)
 
 ## Done :satisfied:
 
 - [CS144 - Stanford](https://cs144.github.io/)
 - [6.NULL - MIT](https://missing.csail.mit.edu/)
 - [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ## I don't have time :worried:
 
