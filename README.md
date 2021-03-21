@@ -3,14 +3,14 @@
 ## Ongoing :grinning:
 
 - Struggling to find an internship :cry:
+- [GAMES101 - 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744)
+- [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
 
 ## Near future :thinking:
 
 ### CS & Math
 
 - [PLAI](https://www.bilibili.com/video/BV1V4411Z7LQ)
-- [GAMES101 - 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744)
-- [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
 
 ## Done :satisfied:
 
