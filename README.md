@@ -11,6 +11,9 @@
 ### CS & Math
 
 - [PLAI](https://www.bilibili.com/video/BV1V4411Z7LQ)
+- [Programming Languages - Coursera](https://www.coursera.org/learn/programming-languages)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [A Retargetable C Compiler - 可变目标C编译器](https://book.douban.com/subject/1224812/)
 
 ## Done :satisfied:
 
@@ -31,8 +34,6 @@
 
 - [软件分析 - NJU](https://www.bilibili.com/video/BV1b7411K7P4)
 - [《Practical Vim》](https://book.douban.com/subject/26967597/)
-- [Programming Languages - Coursera](https://www.coursera.org/learn/programming-languages)
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [Linear Algebra - MIT](https://www.bilibili.com/video/av46288016)
 - Learn Open Source Code
   - [minimist](https://www.npmjs.com/package/minimist)
