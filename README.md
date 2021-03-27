@@ -2,7 +2,6 @@
 
 ## Ongoing :grinning:
 
-- Struggling to find an internship :cry:
 - [GAMES101 - 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744)
 - [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
 
@@ -12,7 +11,6 @@
 
 - [PLAI](https://www.bilibili.com/video/BV1V4411Z7LQ)
 - [Programming Languages - Coursera](https://www.coursera.org/learn/programming-languages)
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [A Retargetable C Compiler - 可变目标C编译器](https://book.douban.com/subject/1224812/)
 
 ## Done :satisfied:
@@ -34,7 +32,7 @@
 
 - [软件分析 - NJU](https://www.bilibili.com/video/BV1b7411K7P4)
 - [《Practical Vim》](https://book.douban.com/subject/26967597/)
-- [Linear Algebra - MIT](https://www.bilibili.com/video/av46288016)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - Learn Open Source Code
   - [minimist](https://www.npmjs.com/package/minimist)
   - [day.js](https://www.npmjs.com/package/dayjs)
