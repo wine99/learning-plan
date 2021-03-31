@@ -2,7 +2,7 @@
 
 ## Ongoing :grinning:
 
-- [GAMES101 - 现代计算机图形学入门](https://www.bilibili.com/video/BV1X7411F744)
+- [GAMES101](https://www.bilibili.com/video/BV1X7411F744)
 - [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
 
 ## Near future :thinking:
@@ -11,7 +11,7 @@
 
 - [PLAI](https://www.bilibili.com/video/BV1V4411Z7LQ)
 - [Programming Languages - Coursera](https://www.coursera.org/learn/programming-languages)
-- [A Retargetable C Compiler - 可变目标C编译器](https://book.douban.com/subject/1224812/)
+- [A Retargetable C Compiler](https://book.douban.com/subject/1224812/)
 
 ## Done :satisfied:
 
@@ -31,9 +31,6 @@
 ### CS & Math
 
 - [软件分析 - NJU](https://www.bilibili.com/video/BV1b7411K7P4)
-- [《Practical Vim》](https://book.douban.com/subject/26967597/)
+- [Practical Vim](https://book.douban.com/subject/26967597/)
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-- Learn Open Source Code
-  - [minimist](https://www.npmjs.com/package/minimist)
-  - [day.js](https://www.npmjs.com/package/dayjs)
-  - [lodash](https://www.npmjs.com/package/lodash)
+
