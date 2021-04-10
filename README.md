@@ -4,6 +4,7 @@
 
 - [GAMES101](https://www.bilibili.com/video/BV1X7411F744)
 - [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
+- [语言小书](https://book.douban.com/subject/30325341/)
 
 ## Near future :thinking:
 
@@ -12,6 +13,7 @@
 - [PLAI](https://www.bilibili.com/video/BV1V4411Z7LQ)
 - [Programming Languages - Coursera](https://www.coursera.org/learn/programming-languages)
 - [A Retargetable C Compiler](https://book.douban.com/subject/1224812/)
+- [软件分析 - NJU](https://www.bilibili.com/video/BV1b7411K7P4)
 
 ## Done :satisfied:
 
@@ -19,6 +21,7 @@
 - [6.NULL - MIT](https://missing.csail.mit.edu/)
 - [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [The Little Schemer](https://book.douban.com/subject/1632977/)
 
 ## I don't have time :worried:
 
@@ -30,7 +33,6 @@
 
 ### CS & Math
 
-- [软件分析 - NJU](https://www.bilibili.com/video/BV1b7411K7P4)
 - [Practical Vim](https://book.douban.com/subject/26967597/)
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
