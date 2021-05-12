@@ -2,7 +2,6 @@
 
 ## Ongoing :grinning:
 
-- [GAMES101](https://www.bilibili.com/video/BV1X7411F744)
 - [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
 
 ## Near future :thinking:
@@ -44,3 +43,6 @@
 - [Game Theory - Yale](https://oyc.yale.edu/economics/econ-159)
 - [投资银行学 - PKU](https://www.icourse163.org/course/PKU-1449923183)
 
+## Aborted :x:
+
+- [GAMES101](https://www.bilibili.com/video/BV1X7411F744)
