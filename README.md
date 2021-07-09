@@ -2,16 +2,16 @@
 
 ## Ongoing :grinning:
 
-- [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
+- [Programming Languages - Coursera](https://www.coursera.org/learn/programming-languages)
 
 ## Near future :thinking:
 
 ### CS & Math
 
 - [PLAI](https://www.bilibili.com/video/BV1V4411Z7LQ)
-- [Programming Languages - Coursera](https://www.coursera.org/learn/programming-languages)
 - [A Retargetable C Compiler](https://book.douban.com/subject/1224812/)
-- [软件分析 - NJU](https://www.bilibili.com/video/BV1b7411K7P4)
+- [Practical Vim](https://book.douban.com/subject/26967597/)
+- [Category Theory for Programmers](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 ### Business
 
@@ -20,11 +20,14 @@
 
 ## Done :satisfied:
 
+Latest to oldest:
+
+- [SICP](https://www.bilibili.com/video/BV1Xx41117tr)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [The Little Schemer](https://book.douban.com/subject/1632977/)
 - [CS144 - Stanford](https://cs144.github.io/)
 - [6.NULL - MIT](https://missing.csail.mit.edu/)
 - [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [The Little Schemer](https://book.douban.com/subject/1632977/)
 
 ## I don't have time :worried:
 
@@ -34,8 +37,8 @@
 
 ### CS & Math
 
-- [Practical Vim](https://book.douban.com/subject/26967597/)
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [软件分析 - NJU](https://www.bilibili.com/video/BV1b7411K7P4)
 
 ### Business
 
